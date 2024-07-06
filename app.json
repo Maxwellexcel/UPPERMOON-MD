@@ -61,11 +61,7 @@
       "required": false,
       "value": "false"
     },
-    "MENTION_DATA": {
-      "description": "Enter Mention Data For Mention Audio",
-      "required": false,
-      "value": "01:43 ━━━●───── 03:50;⇆ㅤ ||◁ㅤ❚❚ㅤ▷||ㅤ ⇆;2348121373516;
-    },
+   
     
     
     "HEROKU_APP_NAME": {
