@@ -34,7 +34,7 @@
     "AUDIO_DATA": {
       "description": "Enter Your Audio Data",
       "required": false,
-      "value": "UPPERMOON-MD";
+      "value": "UPPERMOON-MD"
     },
     "OWNER_NAME": {
       "description": "Enter Your Owner Name",
