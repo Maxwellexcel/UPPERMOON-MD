@@ -2,7 +2,7 @@
   "name": "UPPERMOON-MD",
   "version": "1.0.0",
   "description": "UPPERMOON-MD Simple But useful WhatsApp Bot",
-  "logo": "https://i.imgur.com/T78fhJk.jpeg",
+  "logo": "https://telegra.ph/file/8c153dbccc294e2a31d4f.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "UPPERMOON", "UPPERMOON-MD", "wabot", "termux-bot", "sc-bot", "plugins", "MAXWELLEXCEL", "Whatsapp-bot-md"],
   "repository": "https://github.com/Maxwellexcel/UPPERMOON-MD",
   "stack": "container",
@@ -19,7 +19,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": false,
-      "value": "919074692450"
+      "value": "2348121373516"
     },
     "SPAM_COUNT": {
       "description": "Enter Number Of Times To Send Spam Message Using .spam Command",
@@ -29,12 +29,12 @@
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
       "required": false,
-      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️"
+      "value": "UPPERMOON"
     },
     "AUDIO_DATA": {
       "description": "Enter Your Audio Data",
       "required": false,
-      "value": "UPPERMOON-MD;
+      "value": "UPPERMOON-MD";
     },
     "OWNER_NAME": {
       "description": "Enter Your Owner Name",
